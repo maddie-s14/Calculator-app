@@ -1,7 +1,7 @@
 import dearpygui.dearpygui as dpg
 import traceback
 
-print("✅ Starting calculator app...")
+print("✅ Starting")
 
 try:
     # Create the context and viewport
